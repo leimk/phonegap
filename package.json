@@ -1,0 +1,1 @@
+{"name":"id.ekalloyd.api","version":"1.0.0","displayName":"Basic Phonegap","cordova":{"platforms":["ios"]},"dependencies":{"cordova-ios":"~4.5.4"}}
